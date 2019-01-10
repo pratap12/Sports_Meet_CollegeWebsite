@@ -1,0 +1,41 @@
+form li{
+		list-style: none;
+		margin-bottom: 10px;
+
+}
+form ul{
+	padding-left:0px;
+}
+
+
+label{
+	display:block;
+	color: #292929;
+	font-family: sans-serif;
+	padding-bottom: 7px;
+	cursor:pointer;
+}
+textarea{
+	width:400px;
+	height:200px;
+}
+.fom{
+	
+	background: url(../img/yify.jpg) no-repeat ;
+	position: relative;
+	margin:auto;
+	left:40px;
+	top:1000px;
+}
+.box{
+	position: absolute;
+	margin:auto;
+	width:50px;
+	height: 50px;
+	background:red;
+	top: 0px;
+	left: 0px;
+}
+body{
+	background-color: #e3e3e3;
+}

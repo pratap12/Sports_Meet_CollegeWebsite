@@ -1,0 +1,30 @@
+p{
+	color: grey;
+	text-decoration: none;
+	
+}
+
+a{
+	color: green;
+	text-decoration: none;
+}
+
+h1{
+	font-family: sans-serif;
+}
+div{
+	margin: auto;
+	width: 500px;
+	background-color: yellow;
+	text-align: center;
+}
+blockquote{
+	width: 496px;
+	border : 2px solid #e3e3e3;
+	margin-left: 0;
+}
+
+.bodyy{
+	width: 500px;
+	margin: auto ;
+}

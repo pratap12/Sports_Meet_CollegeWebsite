@@ -1,0 +1,59 @@
+body{
+	margin:auto;
+	min-width: 100px;
+	width:80%;
+}
+
+.other{
+	text-align: center;
+	background-color: #e3e3e3;
+}
+.wrap{
+	background:red;
+	float:left;
+	width:80%;
+}
+
+aside{
+	background:brown;
+	width:20%;
+	float:right;
+
+}
+
+aside ul{color: blue;
+   padding-left: 20px;
+   list-style: none;
+  }
+#banana{ color: green;}
+.emphasis{ color:maroon;}
+.wrap li:nth-child(2){
+			text-decoration: underline;
+		}
+
+.other li{
+	display: inline;
+	padding-left: 2%;
+}
+.other li a{
+	text-decoration: none;
+	font-family: sans-serif;
+
+}
+
+.other li a:hover{
+	font-size: 110%;
+	text-decoration: underline;
+	color:blue;
+}
+
+h1{
+	font-family: monospace;
+	font-size: 50px;
+	letter-spacing: 5px;
+	 text-transform: uppercase;
+	 text-shadow: 
+	 3px -3px 0px white,
+	 4px -5px 2px red;
+
+}
